@@ -10,7 +10,6 @@ Modelimiz, test verileri üzerinde yapılan değerlendirmeler sonucunda **%98.39
 
 ---
 
-
 ## 🛠️ Kullanılan Teknolojiler
 * **Python 3.x**
 * **Pandas:** Veri manipülasyonu.
